@@ -36,7 +36,10 @@ rmsfact <- function() {
 
 ##' @rdname rmsfact
 ##' @param x Default object for \code{print} method
+##' @param width Optional column width parameter
 ##' @param ... Other optional arguments
-print.rmsfact <- function(x, ...) {
-    cat(x, "\n")
+print.rmsfact <- function(x, width = NULL, ...) {
+    if (is.null(width)) width <- 0.9 * getOption("width")
+    if (width < 10) stop("'width' must be greater than 10", call.=FALSE)
+    invisible(sapply(strwrap(x, width), cat, "\n"))
 }

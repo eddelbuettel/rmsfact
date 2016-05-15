@@ -1,6 +1,7 @@
 2016-05-15  Dirk Eddelbuettel  <edd@debian.org>
 
-	* R/rmsfact.R: Added @seealso and @examples
+	* R/rmsfact.R: Added @seealso and @examples; the print method now
+	uses strwrap
 
 	* README.md: Expanded
 	* .travis.yml: Added

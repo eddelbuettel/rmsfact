@@ -7,10 +7,12 @@
 \usage{
 rmsfact()
 
-\method{print}{rmsfact}(x, ...)
+\method{print}{rmsfact}(x, width = NULL, ...)
 }
 \arguments{
 \item{x}{Default object for \code{print} method}
+
+\item{width}{Optional column width parameter}
 
 \item{...}{Other optional arguments}
 }
