@@ -19,6 +19,10 @@
 ##'  from the included file. It is of class \code{rmsfact} for
 ##'  which an S3 print method will be invoked.
 ##' @author Dirk Eddelbuettel
+##' @seealso \code{\link[fortunes:fortunes]{fortune}}
+##' @examples
+##'   set.seed(123)
+##'   rmsfact()
 rmsfact <- function() {
     if (is.null(.rms.env$rms.data)) .rms.env$rms.data <- .read.rms()
     rms.data <- .rms.env$rms.data

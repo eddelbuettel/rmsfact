@@ -29,7 +29,14 @@ The function is a port of the GNU Octave function \code{fact}
 doing the same, and written by Jordi Gutiérrez Hermoso based on
 the (now defunct) site \url{http://www.stallmanfacts.com}.
 }
+\examples{
+  set.seed(123)
+  rmsfact()
+}
 \author{
 Dirk Eddelbuettel
+}
+\seealso{
+\code{\link[fortunes:fortunes]{fortune}}
 }
 
