@@ -7,7 +7,7 @@
     data <- readLines(filename)
 }
     
-##' Function to display a randomly chose fact about Richard M. Stallman
+##' Function to display a randomly chosen fact about Richard M. Stallman
 ##'
 ##' This function displays a randomly chosen line from the included
 ##' data set of of random \sQuote{facts} about Richard M. Stallman.

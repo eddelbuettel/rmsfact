@@ -22,7 +22,7 @@ A character vector containing one randomly selected line
  which an S3 print method will be invoked.
 }
 \description{
-Function to display a randomly chose fact about Richard M. Stallman
+Function to display a randomly chosen fact about Richard M. Stallman
 }
 \details{
 This function displays a randomly chosen line from the included
