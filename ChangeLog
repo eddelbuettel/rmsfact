@@ -1,0 +1,15 @@
+2016-05-15  Dirk Eddelbuettel  <edd@debian.org>
+
+	* R/rmsfact.R: Added @seealso and @examples
+
+	* README.md: Expanded
+	* .travis.yml: Added
+
+2016-05-14  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION: First version
+	* NAMESPACE: Ditto
+	* inst/rmsfact/rmsfact.txt: Ditto
+	* R/rmsfact.R: Ditto
+	* man/rmsfact.Rd: Ditoo
+
