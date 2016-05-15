@@ -1,6 +1,4 @@
-## rmsfact
-
-[![Build Status](https://travis-ci.org/eddelbuettel/rmsfact.svg)](https://travis-ci.org/eddelbuettel/rmsfact) [![License](http://img.shields.io/badge/license-GPL--3-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-3.0.html)
+## rmsfact [![Build Status](https://travis-ci.org/eddelbuettel/rmsfact.svg)](https://travis-ci.org/eddelbuettel/rmsfact) [![License](http://img.shields.io/badge/license-GPL--3-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-3.0.html)
 
 ### Amazing Random Facts About the World's Greatest Hacker
 

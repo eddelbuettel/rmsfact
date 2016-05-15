@@ -1,3 +1,15 @@
+## This content below was taken from the function fact.m in the GNU Octave sources
+## eg http://hg.savannah.gnu.org/hgweb/octave/file/19e8eddd4773/scripts/miscellaneous/fact.m
+## and adapted for R by Dirk Eddelbuettel
+##   
+## The original header contains
+##   Copyright (C) 2007-2015 Jordi Gutiérrez Hermoso
+##   Copyright (C) 2007 Stallmanfacts.com
+##
+## The adaptation for R is
+##   Copyright (C) 2016  Dirk Eddelbuettel
+## and also released as GPL-3
+##
 Richard Stallman takes notes in binary.
 Richard Stallman doesn't need sudo. I will make him a sandwich anyway.
 Richard Stallman is my shephurd, and I am his GNU.
