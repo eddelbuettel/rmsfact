@@ -1,4 +1,16 @@
+2016-05-16  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION: Version 0.0.2
+
+	* R/rmsfact.R (.read.rms): Skip lines starting with '##'
+
+	* inst/rmsfact/rmsfact.txt: Replaced / with ' as delimiter
+
+	* inst/NEWS.Rd: Added
+
 2016-05-15  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION: First CRAN upload of finalised version 0.0.1
 
 	* R/rmsfact.R: Added @seealso and @examples; the print method now
 	uses strwrap
@@ -15,4 +27,3 @@
 	* inst/rmsfact/rmsfact.txt: Ditto
 	* R/rmsfact.R: Ditto
 	* man/rmsfact.Rd: Ditoo
-

@@ -1,7 +1,8 @@
 Package: rmsfact
 Type: Package
 Title: Amazing Random Facts About the World's Greatest Hacker
-Version: 0.0.1
+Version: 0.0.2
+Date: 2016-05-15
 Author: Dirk Eddelbuettel
 Maintainer: Dirk Eddelbuettel <edd@debian.org>
 Description: Display a randomly selected quote about Richard M. Stallman
@@ -9,6 +10,5 @@ Description: Display a randomly selected quote about Richard M. Stallman
  aggregated by Jordi Gutiérrez Hermoso based on the (now defunct) site
  <http://www.stallmanfacts.com>.
 License: GPL-3
-LazyData: TRUE
 Encoding: UTF-8
 RoxygenNote: 5.0.1
