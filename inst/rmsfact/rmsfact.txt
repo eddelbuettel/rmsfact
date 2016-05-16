@@ -45,12 +45,12 @@ Richard Stallman wrote a program to compute the last digit of pi.
 Richard Stallman doesn't use web browsers. He sends a link to a daemon that uses wget to fetch the page and sends it back to him.
 Richard Stallman can solve the halting problem... in polynomial time.
 For Richard Stallman, polynomial time is O(1).
-Richard Stallman didn't \write\ Emacs or created it in his own image. Richard Stallman made Emacs an instance of himself.
+Richard Stallman didn't 'write' Emacs or created it in his own image. Richard Stallman made Emacs an instance of himself.
 Richard Stallman can coerce meaningful data from /dev/null.
 Some people wear Linus Torvalds pyjamas to bed, Linus Torvalds wears Richard Stallman pyjamas.
 There is no software development process, only a bunch of programs Richard Stallman allows to exist.
 Richard Stallman spends his leisure time programming with Guile on GNU Hurd.
-Richard Stallman's left and right hands are named \(\ and \)\ 
+Richard Stallman's left and right hands are named '(' and ')' 
 Richard Stallman first words were actually syscalls.
 Richard Stallman didn't create the singularity. He is the singularity. GNU/Linux is only the event horizon.
 When Richard Stallman pipes to more, he gets less 
@@ -87,7 +87,7 @@ Richard Stallman wrote the first version of Emacs on a typewriter.
 Richard Stallman has no known weaknesses, except for a phobia against soap.
 Richard Stallman is not affected by Godwin's Law.
 Richard Stallman can write an anti-virus program that cures HIV. Too bad he never writes anti-virus programs.
-Richard Stallman' facial hair is \free as in beard\
+Richard Stallman' facial hair is 'free as in beard'
 Richard Stallman is licensed under GPL, so you can clone him and redistribute copies so you can help your neighbor. For example a version that take a bath more often.
 Richard Stallman doesn't code; he just travels around the world.
 Richard Stallman was coded by himself in lisp with Emacs.
@@ -105,7 +105,7 @@ Richard Stallman won a Sudoku that started with only one number in each line.
 Richard Stallman's brain compiles and runs C code.
 Richard Stallman wrote the first version of Emacs using Emacs.
 Richard Stallman never gonna give you up, never gonna let you down, never gonna run around and desert you, never gonna make you cry, never gonna say goodbye, never gonna tell a lie and hurt you.
-Richard Stallman, upon reading these facts, didn't laugh at all. Instead, he complained that he is being linked to that dirty \open source\ software. He also asked it to be changed to \free software\, in order to raise awareness for software freedom in our society.
+Richard Stallman, upon reading these facts, didn't laugh at all. Instead, he complained that he is being linked to that dirty 'open source' software. He also asked it to be changed to 'free software', in order to raise awareness for software freedom in our society.
 Richard Stallman has no problem using Emacs. He wrote it with his 4 hands.
 Richard Stallman will revert the big rip by adding parenthesis to the dark matter.
 When you make a Google search and it doesn't find the answer, Google gently consults Richard Stallman.
@@ -118,7 +118,7 @@ Richard Stallman is the one who trims Chuck Norris beard. And he does it freely,
 Richard Stallman does not take bath, for the hydroelectric company uses proprietary software.
 Agent Smith loves Richard Stallman's scent.
 Richard Stallman is the One.
-\They can take our lives, but they can never take our freedom.\ -- William Wallace after a little talk with Richard Stallman.
+'They can take our lives, but they can never take our freedom.' -- William Wallace after a little talk with Richard Stallman.
 Richard Stallman can connect to any brain using an Emacs ssh client.
 Richard Stallman ported Emacs to Intel 4004 chip.
 Richard Stallman did not write GNU Emacs, he simply read the source code from /dev/null.
@@ -127,7 +127,7 @@ Richard Stallman does not contribute to open source projects; open source projec
 Richard Stallman programmed himself before he could even exist
 Richard Stallman can fill up /dev/null.
 Richard Stallman is so zealous about privacy he has /dev/null as his home.
-When Richard Stallman runs /bin/false, it returns \true\.
+When Richard Stallman runs /bin/false, it returns 'true'.
 Richard Stallman doesn't like money, because banks don't run on free software.
 Richard Stallman uses GNU tar to compress air.
 When Richard Stallman reports a bug, the bug prefers to squash itself instead of facing Richard Stallman's wrath.
@@ -136,11 +136,11 @@ Richard Stallman doesn't like neither PCs-Intel nor Burger King... He prefers e-
 Richard Stallman can use grep to find Jimmy Hoffa.
 Richard Stallman made it possible to not absolutely abhor HPUX.
 When Richard Stallman pours his alphabets cereal into a bowl, only G's, N's, and U's come out.
-Richard Stallman is pronounced \GNU slash Stallman\
+Richard Stallman is pronounced 'GNU slash Stallman'
 Richard Stallman doesn't mind if you read his mail as long as you don't delete it before he reads it.
 Richard Stallman is just a guy who has strong principles and decided to follow them.
 Richard Stallman knows that you don't have class because it is a keyword that he defined.
-Richard Stallman doesn't need a qwerty/dvorak keyboard only two buttons \1\ and \0\ and his erect penis.
+Richard Stallman doesn't need a qwerty/dvorak keyboard only two buttons '1' and '0' and his erect penis.
 On the first day Richard Stallman said M-x create-light.
 Richard Stallman once went out of scope for a while. The garbage collector never dared to touch him.
 Richard Stallman does not compile; he closes his eyes, and see energy lines created between bit blocks by the compiler optimizations.
@@ -179,7 +179,7 @@ There is no chin under Richard Stallman' beard. There's only another beard. Recu
 Richard Stallman can chown anything! stallman@stallman~$ chown stallman:stallman Earth (for example)
 Richard Stallman freed his beard so he can always check what's in it.
 In the beginning was the Word, and the Word was with RMS, and the Word was GNU.
-RMS means \RMS means Stallman\
+RMS means 'RMS means Stallman'
 Richard Stallman is the babelfish of his own speeches.
 Richard Stallman wrote his own library and lives in it.
 Richard Stallman found Waldo using grep in /dev/null
@@ -198,11 +198,11 @@ RMS is Titanic.
 Richard Stallman is the answer to the Turing Test.
 Richard Stallman's beard makes ads for Gillette and Braun appear.
 for i = 1 to Stallman will never stop.
-\RMS\ stands for \RMS Makes Software\
-Whenever someone writes a \Hello, world\ program, Richard Stallman says \Hello\ back.
+'RMS' stands for 'RMS Makes Software'
+Whenever someone writes a 'Hello, world' program, Richard Stallman says 'Hello' back.
 Richard Stallman wasn't born. He was compiled from source.
 Richard Stallman has a URL tattooed on the left side of his chest where you can download his genetic code.
-The GNU command line idiom that Richard Stallman never needs: \date | more\
+The GNU command line idiom that Richard Stallman never needs: 'date | more'
 Richard Stallman's toe cheese is aged to perfection.
 Richard Stallman doesn't always run an OS kernel, but when he does he prefers GNU/Hurd. He is... the most interesting hacker in the world. Stay free, my friends.
 When Richard Stallman gets hungry, he just picks debris from his foot and eats it.
