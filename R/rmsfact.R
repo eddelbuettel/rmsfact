@@ -5,6 +5,7 @@
     filename <- system.file("rmsfact", "rmsfact.txt", package="rmsfact")
     if (!file.exists(filename)) stop("Hm, file", filename, "is missing.", call.=FALSE)
     data <- readLines(filename)
+    data <- data[! grepl("^##", data)]
 }
     
 ##' Function to display a randomly chosen fact about Richard M. Stallman
