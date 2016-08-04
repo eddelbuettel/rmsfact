@@ -14,7 +14,7 @@
 ##' data set of of random \sQuote{facts} about Richard M. Stallman.
 ##' The function is a port of the GNU Octave function \code{fact}
 ##' doing the same, and written by Jordi Gutiérrez Hermoso based on
-##' the (now defunct) site \url{http://www.stallmanfacts.com}.
+##' the (now defunct) site \code{stallmanfacts.com}.
 ##' @title Display a Random Fact about Richard M. Stallman
 ##' @param ind Optional index of a quote; if missing a random value is
 ##'  sampled

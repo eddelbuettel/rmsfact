@@ -2,14 +2,14 @@
 
 ### Amazing Random Facts About the World's Greatest Hacker
 
-The excellent [GNU Octave](http://www.octave.org) contains a function `fact`.
-It is contributed by Jordi Gutiérrez Hermoso, and draws on the (now defunct) site
-http://stallmanfacts.com for a collection of random 'facts' about
-[Richard M. Stallman](https://stallman.org/).  Each call of `fact` displays
-another (randomly chosen) fact.
+The excellent [GNU Octave](http://www.octave.org) contains a function `fact`.  It is
+contributed by Jordi Gutiérrez Hermoso, and draws on the (now defunct) site
+stallmanfacts.com (accessible via [archive.org](http://www.archive.org)) for a collection
+of random 'facts' about [Richard M. Stallman](https://stallman.org/).  Each call of `fact`
+displays another (randomly chosen) fact.
 
-R was lacking such a key piece of technology, and hence this package was
-created to fill a glaring void.
+R was lacking such a key piece of technology, and hence this package was created to fill a
+glaring void.
 
 ### Example
 
