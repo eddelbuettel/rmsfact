@@ -1,3 +1,10 @@
+2016-08-03  Dirk Eddelbuettel  <edd@debian.org>
+
+	* R/rmsfact.R (rmsfact): Support ind argument
+	(.read.rms): Support encoding
+
+	* .travis.yml: Rewritten for run.sh from forked r-travis
+
 2016-05-16  Dirk Eddelbuettel  <edd@debian.org>
 
 	* DESCRIPTION: Version 0.0.2

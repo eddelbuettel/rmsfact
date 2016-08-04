@@ -4,7 +4,7 @@
 .read.rms <- function() {
     filename <- system.file("rmsfact", "rmsfact.txt", package="rmsfact")
     if (!file.exists(filename)) stop("Hm, file", filename, "is missing.", call.=FALSE)
-    data <- readLines(filename)
+    data <- readLines(filename, encoding="UTF-8")
     data <- data[! grepl("^##", data)]
 }
     
@@ -16,6 +16,8 @@
 ##' doing the same, and written by Jordi Gutiérrez Hermoso based on
 ##' the (now defunct) site \url{http://www.stallmanfacts.com}.
 ##' @title Display a Random Fact about Richard M. Stallman
+##' @param ind Optional index of a quote; if missing a random value is
+##'  sampled
 ##' @return A character vector containing one randomly selected line
 ##'  from the included file. It is of class \code{rmsfact} for
 ##'  which an S3 print method will be invoked.
@@ -24,13 +26,15 @@
 ##' @examples
 ##'   set.seed(123)
 ##'   rmsfact()
-rmsfact <- function() {
+rmsfact <- function(ind) {
     if (is.null(.rms.env$rms.data)) .rms.env$rms.data <- .read.rms()
     rms.data <- .rms.env$rms.data
 
-    n <- length(rms.data)
-    p <- sample(1:n, 1)
-    v <- rms.data[p]
+    if (missing(ind)) {
+        n <- length(rms.data)
+        ind <- sample(1:n, 1)
+    }
+    v <- rms.data[ind]
     class(v) <- "rmsfact"
     return(v)
 }
