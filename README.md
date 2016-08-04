@@ -27,12 +27,11 @@ Complete and functional, no dependencies, passes tests.
 
 ### Installation
 
-The package is [on CRAN](http://cran.r-project.org/package=rmsfact) and be
-installed via a standard
+The package is [on CRAN](http://cran.r-project.org/package=rmsfact) and can
+be installed via a standard
 
 ```{r}
 R> install.packages("rmsfact")
-R>
 ```
 
 ### Author
