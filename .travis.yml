@@ -7,11 +7,11 @@ sudo: required
 dist: trusty
 
 before_install:
-  - curl -OLs http://eddelbuettel.github.io/r-travis/run.sh && chmod 0755 run.sh
+  - curl -OLs https://eddelbuettel.github.io/r-travis/run.sh && chmod 0755 run.sh
   - ./run.sh bootstrap
 
 #install:
-#  - ./travis-tool.sh install_aptget ...
+#  - ./run.sh install_aptget ...
 
 script:
   - ./run.sh run_tests
@@ -24,3 +24,7 @@ notifications:
     on_success: change
     on_failure: change
 
+    
+
+
+    
