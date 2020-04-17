@@ -1,6 +1,12 @@
-## rmsfact [![Build Status](https://travis-ci.org/eddelbuettel/rmsfact.svg)](https://travis-ci.org/eddelbuettel/rmsfact) [![License](http://img.shields.io/badge/license-GPL--3-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-3.0.html) [![CRAN](http://www.r-pkg.org/badges/version/rmsfact)](http://cran.r-project.org/package=rmsfact) [![Downloads](http://cranlogs.r-pkg.org/badges/rmsfact?color=brightgreen)](http://www.r-pkg.org/pkg/rmsfact)
+## rmsfact: Amazing Random Facts About the World's Greatest Hacker 
 
-### Amazing Random Facts About the World's Greatest Hacker
+[![Build Status](https://travis-ci.org/eddelbuettel/rmsfact.svg)](https://travis-ci.org/eddelbuettel/rmsfact) 
+[![License](http://img.shields.io/badge/license-GPL--3-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-3.0.html) 
+[![CRAN](http://www.r-pkg.org/badges/version/rmsfact)](http://cran.r-project.org/package=rmsfact) 
+[![Downloads](http://cranlogs.r-pkg.org/badges/rmsfact?color=brightgreen)](http://www.r-pkg.org/pkg/rmsfact)
+[![Last Commit](https://img.shields.io/github/last-commit/eddelbuettel/rmsfact)](https://github.com/eddelbuettel/rmsfact)
+
+### Motivation
 
 The excellent [GNU Octave](http://www.octave.org) contains a function `fact`.  It is
 contributed by Jordi Gutiérrez Hermoso, and draws on the (now defunct) site
