@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/eddelbuettel/rmsfact.svg)](https://travis-ci.org/eddelbuettel/rmsfact) 
 [![License](http://img.shields.io/badge/license-GPL--3-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-3.0.html) 
 [![CRAN](http://www.r-pkg.org/badges/version/rmsfact)](http://cran.r-project.org/package=rmsfact) 
+[![Dependencies](https://tinyverse.netlify.com/badge/rmsfact)](https://cran.r-project.org/package=rmsfact)
 [![Downloads](http://cranlogs.r-pkg.org/badges/rmsfact?color=brightgreen)](http://www.r-pkg.org/pkg/rmsfact)
 [![Last Commit](https://img.shields.io/github/last-commit/eddelbuettel/rmsfact)](https://github.com/eddelbuettel/rmsfact)
 
