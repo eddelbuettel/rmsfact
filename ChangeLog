@@ -1,3 +1,7 @@
+2025-09-17  Dirk Eddelbuettel  <edd@debian.org>
+
+	* .github/workflows/ci.yaml (jobs): Use r-ci with embedded bootstrap
+
 2024-11-14  Dirk Eddelbuettel  <edd@debian.org>
 
 	* DESCRIPTION (Authors@R): Added
@@ -36,7 +40,7 @@
 
 	* README.md: Add 'dependencies' badge
 
-2020-04-17  Dirk Eddelbuettel  <edd@debian.org>
+ 2020-04-17  Dirk Eddelbuettel  <edd@debian.org>
 
 	* README.md: Add 'last commit' badge
 
