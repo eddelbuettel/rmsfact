@@ -1,6 +1,6 @@
 \name{NEWS}
 \title{News for Package \pkg{rmsfact}}
-\newcommand{\cpkg}{\href{http://CRAN.R-project.org/package=#1}{\pkg{#1}}}
+\newcommand{\cpkg}{\href{https://CRAN.R-project.org/package=#1}{\pkg{#1}}}
 
 \section{Changes in version 0.0.3 (2016-08-04)}{
   \itemize{
