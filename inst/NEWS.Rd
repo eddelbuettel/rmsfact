@@ -2,6 +2,15 @@
 \title{News for Package \pkg{rmsfact}}
 \newcommand{\cpkg}{\href{https://CRAN.R-project.org/package=#1}{\pkg{#1}}}
 
+\section{Changes in version 0.0.4 (2026-09-11)}{
+  \itemize{
+    \item Continuous integration was updated multiple times
+    \item README.md was updated with new badges and a 'See Also' section
+    \item DESCRIPTION switched to using Authors@R amd added URLs
+    \item Support character argument to support lookup via regular expression
+  }
+}
+
 \section{Changes in version 0.0.3 (2016-08-04)}{
   \itemize{
     \item The encoding of the data file is now set when reading making

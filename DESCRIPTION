@@ -1,11 +1,11 @@
 Package: rmsfact
 Type: Package
 Title: Amazing Random Facts About the World's Greatest Hacker
-Version: 0.0.3
-Date: 2016-08-04
+Version: 0.0.4
+Date: 2026-09-11
 Authors@R: c(person("Dirk", "Eddelbuettel", role = c("aut", "cre"), email = "edd@debian.org",
                     comment = c(ORCID = "0000-0001-6419-907X")),
-             person("QuantLib Authors", role = "aut"))
+             person("Octave Authors", role = "aut"))
 Description: Display a randomly selected quote about Richard M. Stallman
  based on the collection in the 'GNU Octave' function 'fact()' which was
  aggregated by Jordi Gutiérrez Hermoso based on the (now defunct) site
