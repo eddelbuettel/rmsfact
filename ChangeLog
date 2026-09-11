@@ -2,6 +2,9 @@
 
 	* R/rmsfact.R (rmsfact): Support character argument
 	* man/rmsfact.Rd: Documented added argument type
+	* README.md: Illustrate use of new argument type
+
+	* README.md: Add 'See Also' for myman and gaussfacts
 
 2026-09-10  Dirk Eddelbuettel  <edd@debian.org>
 

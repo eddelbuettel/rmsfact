@@ -22,11 +22,17 @@ void.
 ### Example
 
 ```{r}
-R> library(rmsfact)                  # load the package
-R> set.seed(123)                     # so that this is predictable
-R> rmsfact()
+> library(rmsfact)                  # load the package
+> set.seed(123)                     # so that this is predictable
+> rmsfact()
 Richard Stallman can see Russia from his house.
-R>
+> rmsfact("power")
+Richard Stallman wrote a program so powerful it knows the question to 42. 
+Richard Stallman can violate the GPL. In a vulgar display of power, he once did 
+so with the Emacs source code, but he undid the violation before most people 
+noticed. 
+>
+    
 ```
 
 ### Package Status
@@ -41,6 +47,12 @@ be installed via a standard
 ```{r}
 R> install.packages("rmsfact")
 ```
+
+### See Also
+
+The [gaussfacts](https://github.com/eddelbuettel/gaussfacts) (also on CRAN) and
+[myman](https://github.com/eddelbuettel/myman) packages also delivers a delightful set to draw from
+just like this package does.
 
 ### Author
 
