@@ -16,8 +16,8 @@
 ##' doing the same, and written by Jordi Gutiérrez Hermoso based on
 ##' the (now defunct) site \code{stallmanfacts.com}.
 ##' @title Display a Random Fact about Richard M. Stallman
-##' @param ind Optional index of a quote; if missing a random value is
-##'  sampled
+##' @param ind Optional index of a quote, or character expression to be matched;
+##' if missing a random index value is sampled
 ##' @return A character vector containing one randomly selected line
 ##'  from the included file. It is of class \code{rmsfact} for
 ##'  which an S3 print method will be invoked.
@@ -33,6 +33,8 @@ rmsfact <- function(ind) {
     if (missing(ind)) {
         n <- length(rms.data)
         ind <- sample(1:n, 1)
+    } else if (is.character(ind)) {
+        ind <- grep(ind, rms.data)
     }
     v <- rms.data[ind]
     class(v) <- "rmsfact"
