@@ -21,7 +21,7 @@ void.
 
 ### Example
 
-```{r}
+```r
 > library(rmsfact)                  # load the package
 > set.seed(123)                     # so that this is predictable
 > rmsfact()
@@ -31,8 +31,7 @@ Richard Stallman wrote a program so powerful it knows the question to 42.
 Richard Stallman can violate the GPL. In a vulgar display of power, he once did 
 so with the Emacs source code, but he undid the violation before most people 
 noticed. 
->
-    
+>  
 ```
 
 ### Package Status
@@ -44,8 +43,8 @@ Complete and functional, no dependencies, passes tests.
 The package is [on CRAN](https://cran.r-project.org/package=rmsfact) and can
 be installed via a standard
 
-```{r}
-R> install.packages("rmsfact")
+```r
+> install.packages("rmsfact")
 ```
 
 ### See Also
